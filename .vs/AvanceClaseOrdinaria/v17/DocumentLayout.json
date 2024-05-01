@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mario\\AvanceClaseOrdinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\views\\admin\\inicioadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\views\\admin\\inicioadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\wwwroot\\css\\inicioadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\wwwroot\\css\\inicioadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|c:\\mario\\avanceclaseordinaria\\avanceclaseordinaria\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B6FE80-D228-4EE1-AF34-4531DD48FAC5}|AvanceClaseOrdinaria\\AvanceClaseOrdinaria.csproj|solutionrelative:avanceclaseordinaria\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioAdmin.css",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\wwwroot\\css\\InicioAdmin.css",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\wwwroot\\css\\InicioAdmin.css",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\wwwroot\\css\\InicioAdmin.css",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\wwwroot\\css\\InicioAdmin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T22:14:27.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioAdmin.cshtml",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Admin\\InicioAdmin.cshtml",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\Views\\Admin\\InicioAdmin.cshtml",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Admin\\InicioAdmin.cshtml",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\Views\\Admin\\InicioAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T21:22:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:20:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T20:54:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T20:52:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T20:52:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\appsettings.json",
+              "RelativeDocumentMoniker": "AvanceClaseOrdinaria\\appsettings.json",
+              "ToolTip": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\appsettings.json",
+              "RelativeToolTip": "AvanceClaseOrdinaria\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T07:13:37.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
