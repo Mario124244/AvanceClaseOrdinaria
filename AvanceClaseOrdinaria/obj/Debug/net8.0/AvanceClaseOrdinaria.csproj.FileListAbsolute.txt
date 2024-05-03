@@ -144,3 +144,4 @@ C:\Mario\AvanceClaseOrdinaria\AvanceClaseOrdinaria\obj\Debug\net8.0\refint\Avanc
 C:\Mario\AvanceClaseOrdinaria\AvanceClaseOrdinaria\obj\Debug\net8.0\AvanceClaseOrdinaria.pdb
 C:\Mario\AvanceClaseOrdinaria\AvanceClaseOrdinaria\obj\Debug\net8.0\AvanceClaseOrdinaria.genruntimeconfig.cache
 C:\Mario\AvanceClaseOrdinaria\AvanceClaseOrdinaria\obj\Debug\net8.0\ref\AvanceClaseOrdinaria.dll
+C:\Mario\AvanceClaseOrdinaria\AvanceClaseOrdinaria\obj\Debug\net8.0\AvanceClaseOrdinaria.sourcelink.json

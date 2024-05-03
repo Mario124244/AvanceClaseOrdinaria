@@ -19,4 +19,32 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color:white;
+}
+.imagenes1{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: white;
+    height:90px;
+}
+.titulo1{
+    color:black;
+    text-decoration:none;
+    
+    
+
+}
+.izquierda{
+    width:80px;
+    height:80px;
+    
+
+}
+.derecha {
+    width: 80px;
+    height: 80px;
+}
+.botonesNav{
+    align-items:flex-end;
 }

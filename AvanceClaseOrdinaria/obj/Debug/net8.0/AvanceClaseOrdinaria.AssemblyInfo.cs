@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvanceClaseOrdinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb7e87a10cad59fb7a79f43e7169e306d5a02ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvanceClaseOrdinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvanceClaseOrdinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

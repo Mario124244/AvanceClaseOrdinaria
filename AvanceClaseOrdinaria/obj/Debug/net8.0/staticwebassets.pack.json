@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\wwwroot\\img\\Logo.8ef57795.png",
+      "PackagePath": "staticwebassets\\img\\Logo.8ef57795.png"
+    },
+    {
+      "Id": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\wwwroot\\img\\admin.png",
+      "PackagePath": "staticwebassets\\img\\admin.png"
+    },
+    {
       "Id": "C:\\Mario\\AvanceClaseOrdinaria\\AvanceClaseOrdinaria\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
